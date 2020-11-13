@@ -1,9 +1,14 @@
 <style type="text/css">
 	.backg{
       background-image: url('/img/12.png');
+			background-repeat: no-repeat;
       background-size: cover;
-      position: absolute;
-      padding-bottom: 200px;
+      background-position: centre;
+      -webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-attachment: fixed;
+			padding-bottom: 210px;
      }
 
 </style>
