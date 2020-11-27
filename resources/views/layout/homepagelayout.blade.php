@@ -7,6 +7,7 @@
       -webkit-background-size: cover;
 			-moz-background-size: cover;
 			-o-background-size: cover;
+			-ms-background-size: cover;
 			background-attachment: fixed;
 			height: 100vh;
      }
